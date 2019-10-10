@@ -1,0 +1,1 @@
+This is Galadriel's first Git project!
